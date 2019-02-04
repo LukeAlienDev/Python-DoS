@@ -1,7 +1,7 @@
 import time, socket, os, sys, string
 import subprocess
 
-print("DoS")
+print("1337 hackerman DoS tool")
 
 host = input("Enter target: ")
 port = input("Enter port: ")
